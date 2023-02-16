@@ -1,6 +1,4 @@
-<a href="/Kduuu0581/Kduuu0581" class="no-underline Link--primary">Carlos Oliveira</a>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Kduuu0581.Kduuu0581">
-
+<hr>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!!+👋;Sou+Carlos+Oliveira;Muito+prazer!&center=true&size=30">
