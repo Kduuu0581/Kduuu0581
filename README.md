@@ -13,8 +13,9 @@ Estudante em Desenvolvimento Web Full Stack pela Trybe | Turma 26
 </p><ul dir="auto">
 <li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji>Estudando Desenvolvimento Web desde Maio de 2022. <br></li>
 <li>Casado e pai de menina;</li>
+<li>Apaixonado por tecnologia;</li>
 <li>Geek, Otaku, Gamer, BoardGame e Skate life style; <br></li>
-<li>Jogador de World of Tanks, Mobile Legends; <br></li>
+<li>Jogador de Xbox, World of Tanks, Mobile Legends; <br></li>
 </ul>
   <hr>
 <p dir="auto"><strong>Linguagens e ferramentas:</strong></p>
