@@ -67,9 +67,6 @@
  <img alt="Kadu's LinkedIN" width="50px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
   </div>
-  <hr>
-
-  <hr>
 </article>
 
 <!--
