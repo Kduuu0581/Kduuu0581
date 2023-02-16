@@ -61,10 +61,10 @@
 <br>
 <div align=center>
   <a href="https://www.instagram.com/kadu81/" alt="Instagram" rel="nofollow">
-<img alt="Kadu's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<img alt="Kadu's Instagram" width="50px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
   </a>
   <a href="https://www.linkedin.com/in/carlosoliveira81/" alt="Linkedin" rel="nofollow">
- <img alt="Kadu's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+ <img alt="Kadu's LinkedIN" width="50px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
   </div>
   <hr>
