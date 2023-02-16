@@ -1,6 +1,8 @@
 <a href="/Kduuu0581/Kduuu0581" class="no-underline Link--primary">Carlos Oliveira</a>
 <article class="markdown-body entry-content container-lg f5" itemprop="text"><h1 align="center" dir="auto"><a id="user-content--olá-meu-nome-é-thiago-" class="anchor" aria-hidden="true" href="#-olá-meu-nome-é-carlos-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a> Olá, meu nome é Carlos! </h1>
 <hr>
+
+<hr>
 <a href="http://betrybe.com/" rel="nofollow">
 <img align="left" src="https://camo.githubusercontent.com/581e0875b1f903fe69479eacb356576b0e14326bf72cd71807517bf2a686f54e/68747470733a2f2f656d6f6a692e736c61636b2d656467652e636f6d2f544d444446455046552f74727962655f6c6f676f76657264652f316666346630346330356538383836382e706e67" width="20px" height="20px" data-canonical-src="https://emoji.slack-edge.com/TMDDFEPFU/trybe_logoverde/1ff4f04c05e88868.png" style="max-width: 100%;">
 </a> Estudante em Desenvolvimento Web Full Stack pela Trybe | Turma 26
@@ -69,6 +71,14 @@
 </li>
 </ul>
 <hr>
+  <div align="center">
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
+
+![Visitor Count](https://profile-counter.glitch.me/Kduuu0581/count.svg)
+  </div>
+  <hr>
 <strong>Contato:</strong> <br><br>
 <p align="left" dir="auto">
   <a href="carloseduardooliveira81@gmail.com">
