@@ -3,9 +3,8 @@
 <hr>
 <a href="http://betrybe.com/" rel="nofollow">
 <img align="left" src="https://camo.githubusercontent.com/581e0875b1f903fe69479eacb356576b0e14326bf72cd71807517bf2a686f54e/68747470733a2f2f656d6f6a692e736c61636b2d656467652e636f6d2f544d444446455046552f74727962655f6c6f676f76657264652f316666346630346330356538383836382e706e67" width="20px" height="20px" data-canonical-src="https://emoji.slack-edge.com/TMDDFEPFU/trybe_logoverde/1ff4f04c05e88868.png" style="max-width: 100%;">
-</a> 
+</a> Estudante em Desenvolvimento Web Full Stack pela Trybe | Turma 26
 <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"><img align="center" alt="edudias1972-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width: 100%;"></a> Desenvolvedor Full Stack!</li>
-Estudante em Desenvolvimento Web Full Stack pela Trybe | Turma 26
 <p dir="auto"></p>
 <hr>
 <p dir="auto">
