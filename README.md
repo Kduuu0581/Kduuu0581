@@ -1,4 +1,6 @@
 <hr>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Kduuu0581.Kduuu0581">  
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!!+👋;Sou+Carlos+Oliveira;Muito+prazer!&center=true&size=30">
@@ -66,12 +68,12 @@
   </div>
 </article>
  <hr>
- <img height="100" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+ <img height="100" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />            
 <hr>    
 
 <!--
 **Kduuu0581/Kduuu0581** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+                
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
