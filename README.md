@@ -1,5 +1,10 @@
 <hr>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Kduuu0581.Kduuu0581">  
+<div align="right">
+  
+ [![GitHub Kduuu0581](https://img.shields.io/github/followers/Kduuu0581?label=follow&style=social)](https://github.com/Kduuu0581) 
+  
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Kduuu0581.Kduuu0581"> 
+</div>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -71,10 +76,10 @@
 </article>
  <hr>
  <img height="100" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />            
-<hr>    
+<hr> 
+                
 
-              
-
+                
 <!--
 **Kduuu0581/Kduuu0581** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
                 
