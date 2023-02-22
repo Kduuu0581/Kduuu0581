@@ -1,16 +1,17 @@
 <hr>
-<div align="right">
-  
- [![GitHub Kduuu0581](https://img.shields.io/github/followers/Kduuu0581?label=follow&style=social)](https://github.com/Kduuu0581) 
-  
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Kduuu0581.Kduuu0581"> 
-</div>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!!+👋;Sou+Carlos+Oliveira;Muito+prazer!&center=true&size=30">
   </a>
 </h1>
+
+<div align="center">
+  
+ [![GitHub Kduuu0581](https://img.shields.io/github/followers/Kduuu0581?label=follow&style=social)](https://github.com/Kduuu0581) 
+  
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Kduuu0581.Kduuu0581"> 
+</div>
 
 <hr>
 <a href="http://betrybe.com/" rel="nofollow">
