@@ -101,7 +101,9 @@
  <img height="100" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />            
 <hr> 
                 
+<hr>
 
+[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//)](https://www.linkedin.com/in//)
                 
 <!--
 **Kduuu0581/Kduuu0581** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
