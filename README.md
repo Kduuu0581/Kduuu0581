@@ -94,7 +94,7 @@
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=2EC866&logoColor=white&labelColor=&style=flat" height="40" alt="whatsapp logo"  />
   </a>
 <br>
-<h3 align="left">📩 Ou mandar um email para:</h3>
+<h3 align="center">📩 Ou mandar um email para:</h3>
 
 <img src="https://img.shields.io/static/v1?message=carloseduardooliveira81@gmail.com&label=&color=f26e5a&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />                                                                                                                            
   </div>
