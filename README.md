@@ -87,9 +87,6 @@
 <h2 align="center">Contato</h2>
 <br>
 <div align=center>
-  <a href="https://www.instagram.com/kadu81/" alt="Instagram" rel="blank">
-<img alt="Kadu's Instagram" width="50px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-  </a>
    <a href="https://www.linkedin.com/in/carlosoliveira81/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
   </a>
