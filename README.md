@@ -11,6 +11,7 @@
  [![GitHub Kduuu0581](https://img.shields.io/github/followers/Kduuu0581?label=follow&style=social)](https://github.com/Kduuu0581) 
   
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Kduuu0581.Kduuu0581"> 
+
 </div>
 
 <hr>
@@ -19,6 +20,7 @@
 </a> Desenvolvedor Web Full Stack formado pela Trybe | Turma 26
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="250px"/>
 <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"><img align="center" alt="edudias1972-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width: 100%;"></a> Desenvolvedor Full Stack!</li>
+<li><a href="https://kduuu0581.github.io/" >Meu Portifólio</a></li>
 <hr>
 <p dir="auto">
 <strong>Sobre mim:</strong> <br>
